@@ -1,4 +1,4 @@
-# Python ile Satış Analizi - Using Python Pandas Library to Analyze Sales Data 
+# Python Using Python Pandas Library to Analyze Sales Data 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Objective: Data Manipulation and exploring with Pandas.
 # Technique used:
