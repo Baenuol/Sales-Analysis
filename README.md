@@ -21,7 +21,7 @@ Data cleaning, data analysis
 14.	Which are the average shipping cost for top 10 different countries?
 15.	Who are the top-10 most profitable customers?
 17.	Total sales values by year and month.
-
+YouTube: https://youtu.be/xKDuhaTukiE
 ຜະລິດຕະພັນໃດທີຂາຍຫຼາຍທີສຸດ
 ຜະລິດຕະພັນທີ່ມີຍອດຂາຍຫຼາຍທີ່ສຸດ
 ຜະລິດຕະພັນທີກຳໄລຫຼາຍທີສຸດ
